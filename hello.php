@@ -1,1 +1,3 @@
-sdsdasda
+<?php
+
+phpinfo();
